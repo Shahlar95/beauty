@@ -1,0 +1,15 @@
+.container-fluid{
+    .p1{
+        text-align: center;
+        color: white;
+        padding: 50px 0;
+    }
+    .p2{
+        color: white;
+        text-align: center;
+        span{
+            color: rgb(192, 144, 56);
+            text-decoration: underline;
+        }
+    }
+}
